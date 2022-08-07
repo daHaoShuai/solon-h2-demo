@@ -1,0 +1,7 @@
+server:
+  port: 9999
+demo.db1:
+  jdbcUrl: jdbc:h2:mem:test
+  driverClassName: org.h2.Driver
+  username: sa
+  password:
